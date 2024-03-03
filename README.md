@@ -1,7 +1,3 @@
-Sure, here's a description you can use for your GitHub repository:
-
----
-
 ## Weather App
 
 This is a simple weather application built using Python's Tkinter library. It allows users to check the current weather conditions of any location by entering the city name. The application fetches weather data from the OpenWeatherMap API and displays information such as temperature, weather condition, humidity, wind speed, and pressure.
