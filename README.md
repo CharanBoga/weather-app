@@ -29,9 +29,12 @@ This is a simple weather application built using Python's Tkinter library. It al
 
 ### Screenshots:
 
-![Screenshot 1](screenshots/screenshot1.png)
+![weather](https://github.com/CharanBoga/weather-app/assets/117650577/4350d71d-6b4c-4525-84bd-a70a1c063a5c)
+![w2](https://github.com/CharanBoga/weather-app/assets/117650577/ff52fb5d-1ec1-4a1d-8f2e-d4765ffdb546)
+![w3](https://github.com/CharanBoga/weather-app/assets/117650577/aad50d01-0fb1-456f-825a-d1e18c0774db)
 
-![Screenshot 2](screenshots/screenshot2.png)
+
+
 
 ### How to Run:
 
