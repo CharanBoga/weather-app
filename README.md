@@ -46,8 +46,8 @@ This is a simple weather application built using Python's Tkinter library. It al
 
 1. Clone the repository to your local machine.
 2. Ensure you have Python installed.
-3. Install the required dependencies using `pip install -r requirements.txt`.
-4. Run the `weather_app.py` script using Python.
+3. Install the required dependencies using `pip install geopy`,'pip install timezonefinder','pip install pytz',
+4. Run the `weather.py` script using Python.
 
 ### Contributing:
 
